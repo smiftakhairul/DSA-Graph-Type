@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1459581613 source:f:\c++ ( data structure and algorithm )\lab 14\graph type\heaptype.cpp
+	"graphType.h"
+	"stackType.cpp"
+	"queType.cpp"
+	<iostream>
+
+1459579851 f:\c++ ( data structure and algorithm )\lab 14\graph type\graphtype.h
+	"stackType.h"
+	"queType.h"
+
+1455139306 f:\c++ ( data structure and algorithm )\lab 14\graph type\stacktype.h
+
+1458835895 f:\c++ ( data structure and algorithm )\lab 14\graph type\quetype.h
+
+1455139541 f:\c++ ( data structure and algorithm )\lab 14\graph type\stacktype.cpp
+	"stackType.h"
+	<iostream>
+
+1458835926 f:\c++ ( data structure and algorithm )\lab 14\graph type\quetype.cpp
+	"queType.h"
+	<iostream>
+
+1459581665 source:f:\c++ ( data structure and algorithm )\lab 14\graph type\main.cpp
+	"graphType.h"
+	"heapType.cpp"
+	<iostream>
+
+1459581991 f:\c++ ( data structure and algorithm )\lab 14\graph type\heaptype.cpp
+	"graphType.h"
+	"stackType.cpp"
+	"queType.cpp"
+	<iostream>
+
